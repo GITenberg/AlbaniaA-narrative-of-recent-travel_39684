@@ -1,0 +1,29 @@
+_repo: AlbaniaA-narrative-of-recent-travel_39684
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39684-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Knight, E. F. (Edward Frederick)
+    alias: Knight, Edward Frederick
+    birthdate: 1852
+    deathdate: 1925
+    gutenberg_agent_id: '36594'
+    url: http://www.gutenberg.org/2009/agents/36594
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederick_Knight
+description: ''
+gutenberg_issued: '2012-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39684'
+  lccn: '05002505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Albania -- Description and travel'
+title: 'Albania: A Narrative of Recent Travel'
+url: http://www.gutenberg.org/ebooks/39684
